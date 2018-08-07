@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "1.0.0",
   "description": "frontend conversor de unidades",
-  "main": "index.js",
+  "main": "./src/index.jsx",
   "scripts": {
     "dev": "webpack-dev-server --progress --colors --inline --hot"
   },
